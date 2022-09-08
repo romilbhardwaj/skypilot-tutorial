@@ -1,1 +1,2 @@
-jupyterterminals
+jupyter
+jupyterlab
